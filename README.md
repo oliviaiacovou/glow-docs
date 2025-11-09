@@ -1,2 +1,1 @@
-# glow-docs
-Documentation and instructions for the Glow theme engine
+# [To the Wiki!](https://github.com/oliviaiacovou/glow-docs/wiki)
